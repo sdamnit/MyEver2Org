@@ -1,0 +1,22 @@
+{
+  "name": "MyEver2Org",
+  "version": "0.1.0",
+  "summary": "A short description of MyEver2Org.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sdamnit/MyEver2Org",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sdamnit": "sdamnit@sdamnit.com"
+  },
+  "source": {
+    "git": "https://github.com/sdamnit/MyEver2Org.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MyEver2Org/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module Pods_MyEver2Org_Tests {
+  umbrella header "Pods-MyEver2Org_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

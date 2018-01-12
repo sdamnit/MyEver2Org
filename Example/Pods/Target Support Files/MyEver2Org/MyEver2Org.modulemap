@@ -1,0 +1,6 @@
+framework module MyEver2Org {
+  umbrella header "MyEver2Org-umbrella.h"
+
+  export *
+  module * { export * }
+}
