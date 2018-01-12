@@ -29,8 +29,8 @@
 
 /* Begin PBXFileReference section */
 		0C9BEA9112CC7986C49B7EDC /* Pods-MyEver2Org_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyEver2Org_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-MyEver2Org_Example/Pods-MyEver2Org_Example.release.xcconfig"; sourceTree = "<group>"; };
-		40A3025C10776D86D4DD710C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		555E1C08519C9F7DB121324B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		40A3025C10776D86D4DD710C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		555E1C08519C9F7DB121324B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* MyEver2Org_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyEver2Org_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -44,7 +44,7 @@
 		75BA04594F3DB9FEA081ED96 /* Pods_MyEver2Org_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MyEver2Org_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7A12F86A3937E7918FE82F31 /* Pods-MyEver2Org_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyEver2Org_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MyEver2Org_Example/Pods-MyEver2Org_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		DEFF3F22E6D7567E7592F810 /* Pods-MyEver2Org_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyEver2Org_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-MyEver2Org_Tests/Pods-MyEver2Org_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		F1CC38954139790725F045A8 /* MyEver2Org.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = MyEver2Org.podspec; path = ../MyEver2Org.podspec; sourceTree = "<group>"; };
+		F1CC38954139790725F045A8 /* MyEver2Org.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = MyEver2Org.podspec; path = ../MyEver2Org.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		F3A70795EB9FB3A4F0D97891 /* Pods_MyEver2Org_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MyEver2Org_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FDC79FBFD469FD80F8844BBA /* Pods-MyEver2Org_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyEver2Org_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MyEver2Org_Tests/Pods-MyEver2Org_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
